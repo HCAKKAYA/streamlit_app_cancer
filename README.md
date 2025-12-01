@@ -127,10 +127,6 @@ CSS stilleri `assets/style.css` dosyasında tanımlanmıştır:
 
 Model eğitimi sırasında accuracy score ve classification report konsola yazdırılır. Bu metrikleri görmek için model eğitim scriptini çalıştırın.
 
-## 🤝 Katkıda Bulunma
-
-Katkılarınızı bekliyoruz! Lütfen pull request göndermeden önce değişikliklerinizi test edin.
-
 ## 📝 Lisans
 
 Bu proje eğitim amaçlı geliştirilmiştir.
