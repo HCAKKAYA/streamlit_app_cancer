@@ -6,6 +6,8 @@ Bu proje, meme kanseri teşhisine yardımcı olmak için makine öğrenmesi taba
 
 ![Uygulama Arayüzü](foto/1.png)
 
+🔗 **[Canlı Demo](https://app-cancer.streamlit.app)**
+
 ## 🎯 Özellikler
 
 - **İnteraktif Kullanıcı Arayüzü**: Streamlit tabanlı kullanıcı dostu web arayüzü
